@@ -14,7 +14,7 @@
             var scriptDSP = "A Script to make touchpoint effects easier.";
             //------
             var pPalText = "Point";
-            var rText = "Radial:";
+            var rText = "Radius:";
             var oText = "Opacity:";
             var sText = "Shadow:";
             var tText = "Tail:";
