@@ -11,9 +11,7 @@ Or you can copy the `TouchPoint Pro.jsx` to your AE script folder:
 >`/Applications/Adobe After Effects <version>/Scripts/`
 
 </br>
-Then you can run it derectly from `File`->`Script`  </br></br>
-
-![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/menu1.png)</br>
+Then you can run it derectly from `File`->`Script`  
 
 [see details](https://helpx.adobe.com/after-effects/using/scripts.html)</br>
 
@@ -23,3 +21,7 @@ If everthing goes right, you will see this:</br>
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointProEN.png)</br>
 
 # How to Use
+1. Add a Touch point.  
+2. Move the point to fit your screen movement.  
+3. Add actions like click or holds.  
+4. You can add ripple effect to the elements that you 'click' on.  
