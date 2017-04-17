@@ -25,7 +25,7 @@
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/05addripples.gif)  
 
 # 如何安装
-下载[`TouchPoint Pro.jsx 文件`](https://raw.githubusercontent.com/bigxixi/TouchPoint-Pro/master/TouchPoint%20Pro.jsx).</br>
+下载TouchPoint Pro.jsx 文件，[`在这里右键 - 链接另存为`](https://raw.githubusercontent.com/bigxixi/TouchPoint-Pro/master/TouchPoint%20Pro.jsx).</br>
 打开AE, 点击 `文件`->`脚本`->`运行脚本文件...` 然后选择刚才下载的 `TouchPoint Pro.jsx`。    
 </br>
 或者可以复制 `TouchPoint Pro.jsx` 到AE的脚本文件夹:
