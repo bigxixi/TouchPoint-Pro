@@ -25,7 +25,7 @@ an AE script to make touch point effect easier.
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/05addripples.gif)  
 
 # How to Install
-Download the [`TouchPoint Pro.jsx file`](https://raw.githubusercontent.com/bigxixi/TouchPoint-Pro/master/TouchPoint%20Pro.jsx).</br>
+Download the TouchPoint Pro.jsx file, (right click [`here`](https://raw.githubusercontent.com/bigxixi/TouchPoint-Pro/master/TouchPoint%20Pro.jsx), and choose save link as...).</br>
 Run AE, click `File`->`Script`->`Run Script File...` and choose the `TouchPoint Pro.jsx` file.  
 </br>
 Or you can copy the `TouchPoint Pro.jsx` to your AE script folder:
