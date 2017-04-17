@@ -1,8 +1,31 @@
 # TouchPoint Pro
 an AE script to make touch point effect easier.  
-用于添加触控点及各种点击拖拽效果的AE脚本。  
+用于添加触控点及各种点击拖拽效果的AE脚本，[中文介绍点我](https://github.com/bigxixi/TouchPoint-Pro/blob/master/README_CN.md)。  
+# Features
+1. Add a Touch point.  
+2. Move the point to fit your screen movement.  
+3. Add actions like click or holds.  
+4. You can add ripple effect to the elements that you 'click' on.  
+
+# DEMOs
+
+### Add and customize your touch point
+![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/01addpoints.gif)  
+
+### Auto motion tail  
+![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/02tail.gif)  
+
+### Add Actions(Click, Double Click, Press Down, Press Release) 
+![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/03addaction.gif)  
+
+### Reset actions by re-arranging layer markers 
+![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/04resetaction.gif)  
+
+### Add ripples to where you click on  
+![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/05addripples.gif)  
+
 # How to Install
-Download the [`.jsx file`](https://raw.githubusercontent.com/bigxixi/TouchPoint-Pro/master/TouchPoint%20Pro.jsx).</br>
+Download the [`TouchPoint Pro.jsx file`](https://raw.githubusercontent.com/bigxixi/TouchPoint-Pro/master/TouchPoint%20Pro.jsx).</br>
 Run AE, click `File`->`Script`->`Run Script File...` and choose the `TouchPoint Pro.jsx` file.  
 </br>
 Or you can copy the `TouchPoint Pro.jsx` to your AE script folder:
@@ -21,26 +44,7 @@ Or you can also copy the `.jsx` file to the `/script/ScriptUI Panels/` to run fr
 If everthing goes right, you will see this:</br>
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointProEN.png)</br>
 
-# How to Use
-1. Add a Touch point.  
-2. Move the point to fit your screen movement.  
-3. Add actions like click or holds.  
-4. You can add ripple effect to the elements that you 'click' on.  
-
-### Add and customize your touch point
-![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/01addpoints.gif)  
-
-### Auto motion tail  
-![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/02tail.gif)  
-
-### Add Actions(Click, Double Click, Press Down, Press Release) 
-![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/03addaction.gif)  
-
-### Reset actions by re-arranging layer markers 
-![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/04resetaction.gif)  
-
-### Add ripples to where you click on  
-![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/TouchPointPro/05addripples.gif)  
+Now you can enjoy it:)
 
 ## Donation:
 Thank you very much!  
