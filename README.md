@@ -46,13 +46,12 @@ If everthing goes right, you will see this:</br>
 
 Now you can enjoy it:)
 
-## Donation:
-Thank you very much!  
-
-[<img src="http://bigxixi.com/donate/index.hyperesources/paypal.png" width="30%" height="30%">](https://www.paypal.me/bigxixi/)  
-## 求打赏:
+## Donation - 求打赏:
 如果您觉得本插件好用，欢迎打赏，感谢您的支持！  
 
-[<img src="http://bigxixi.com/donate/index.hyperesources/wechat.png" width="30%" height="30%">](http://bigxixi.com/donate)
-[<img src="http://bigxixi.com/donate/index.hyperesources/alipay.jpg" width="30%" height="30%">](http://bigxixi.com/donate)  
+[<img src="https://raw.githubusercontent.com/bigxixi/bigxixi.github.io/master/donate/index.hyperesources/wechat.png" width="30%" height="30%">](http://bigxixi.com/donate/index.html)
+[<img src="https://raw.githubusercontent.com/bigxixi/bigxixi.github.io/master/donate/index.hyperesources/alipay%402x.jpg" width="30%" height="30%">](http://bigxixi.com/donate/index.html)  
 
+也欢迎使用 PayPal：  
+
+[<img src="https://raw.githubusercontent.com/bigxixi/bigxixi.github.io/master/donate/index.hyperesources/paypal.png" width="30%" height="30%">](https://www.paypal.me/bigxixi/index.html)  
